@@ -1,17 +1,3 @@
-# 🏥 Práctica 3 – Bases de Datos: Sistema de Gestión Hospitalaria
-
-**Universidad Politécnica de Madrid** · Escuela Técnica Superior de Ingeniería de Sistemas Informáticos (ETSISI)
-**Grupo:** IWSIM21_3
-
-| Integrantes |
-|---|
-| Blasco Rivas, Sergio |
-| Guevara Berruga, Jaime |
-| Llorente Vaquero, Carlos |
-| Luengo Cuberos, Adrián |
-| Stan, Dragos-Nicolae |
-
----
 
 ## 📖 Descripción
 
