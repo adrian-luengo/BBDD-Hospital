@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<historial_clinico id_paciente="100000002">
+	<prescripcion>
+		<medicamento_codigo>2</medicamento_codigo>
+		<medicamento_nombre>Thesisin</medicamento_nombre>
+		<marca>Foo Labs</marca>
+		<paciente>Grace Ritchie</paciente>
+		<fecha>20/02/2024</fecha>
+		<doctor>Elliot Reid</doctor>
+	</prescripcion>
+	<prescripcion>
+		<medicamento_codigo>2</medicamento_codigo>
+		<medicamento_nombre>Thesisin</medicamento_nombre>
+		<marca>Foo Labs</marca>
+		<paciente>Grace Ritchie</paciente>
+		<fecha>20/02/2020</fecha>
+		<doctor>Elliot Reid</doctor>
+	</prescripcion>
+	<prescripcion>
+		<medicamento_codigo>8</medicamento_codigo>
+		<medicamento_nombre>NeuroCalm</medicamento_nombre>
+		<marca>Inter Labs</marca>
+		<paciente>Grace Ritchie</paciente>
+		<fecha>16/01/2024</fecha>
+		<doctor>Christopher Turk</doctor>
+	</prescripcion>
+	<prescripcion>
+		<medicamento_codigo>2</medicamento_codigo>
+		<medicamento_nombre>Thesisin</medicamento_nombre>
+		<marca>Foo Labs</marca>
+		<paciente>Grace Ritchie</paciente>
+		<fecha>22/07/2024</fecha>
+		<doctor>Percival Cox</doctor>
+	</prescripcion>
+</historial_clinico>
